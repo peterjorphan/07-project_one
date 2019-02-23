@@ -1,9 +1,0 @@
-Research Questions
-- Is Uber more popular during poor weather? Is it less popular during good weather?
-    What constitutes good / poor weather? Temperature / precipitation / wind / divergence from the NotImplementedError
-- Is surge pricing affected by weather?
-- Is surge pricing / status affected by fuel price?
-- Is uber more popular / less popular when fuel price is high or low?
-- Is uber pool more / less popular during high / low fuel prices?
-- Do trip lengths get affected by weather?
-- Does weather decrease or increase the average length of trips taken?   

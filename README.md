@@ -5,20 +5,16 @@ Uber Analytics
 Peter Orphan, Jared Saeger, Stephen Seyer
 
 # Project Description / Outline
-We intend to analyze Uber data and fuel price data via APIs to look for any relationship between the price, popularity, surge status, etc. and fuel price. 
+We intend to analyze data from taxi trips in Chicago and weather data via APIs to look for any relationships present.
 
 # Research Questions To Be Answered
-- Is Uber more popular during poor weather? Is it less popular during good weather?
-    What constitutes good / poor weather? Temperature / precipitation / wind / divergence from the NotImplementedError
-- Is surge pricing affected by weather?
-- Is surge pricing / status affected by fuel price?
-- Is uber more popular / less popular when fuel price is high or low?
-- Is uber pool more / less popular during high / low fuel prices?
+- Are cabs more popular during bad weather? Is it less popular during good weather?
+    - What constitutes good / poor weather? Temperature / precipitation / wind / divergence from the norm?
 - Do trip lengths get affected by weather?
 - Does weather decrease or increase the average length of trips taken?
 
 # Data Sets To Be Used
-Uber API, Dark Sky API (weather), fuel price API (TBD after comparing features of free APIs available)
+CSV file provided by city of Chicago of taxi data from 2013 - 2018, Dark Sky API (weather)
 
 # Rough Breakdown Of Tasks
 - Create better title
